@@ -1,0 +1,5 @@
+[package]
+
+name = "cat"
+version = "0.0.1"
+authors = ["Paul Merrill <pdm@pdm.me>"]
